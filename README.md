@@ -8,7 +8,7 @@
 
 ## 🧠 Tentang Saya
 
-- 🔥 Nama: Pecinta HP Kentang
+- 🔥 Nama: Admind Server
 - 💻 Fokus: Termux, Linux & Script
 - 🚀 Proyek: Automation Tools
 - ☕ Moto: Ngoding walau HP kentang 😎
