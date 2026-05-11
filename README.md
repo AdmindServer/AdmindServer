@@ -1,4 +1,4 @@
-<h1 align="center">Halo, Saya  Pecinta HP Kentang 👋</h1>
+<h1 align="center">Halo, Saya Admind Server 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jiwhwhnbagwhvev-sys&label=Profile%20Views&color=blue&style=flat" />
